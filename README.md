@@ -60,7 +60,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakilakamalasena&theme=react-dark&hide_border=true">
   </a>
 </p>
-
+<hr>
 
 <!--- L A N G U A G E - F R A M E W O R K S -  T O O L S --->
 
@@ -72,9 +72,9 @@
     <img src="https://skillicons.dev/icons?i=bash,matlab,mysql,notion,octave,ps,github,postman,py,ubuntu,vscode,latex" />
   </a>
 </p><br>
-<hr>
 
-<h2 align="center">Learning</h2>
+
+<h2 align="center">Currently Learning</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,gcp,express,kubernetes,mongodb,nextjs,nodejs" />
@@ -105,16 +105,16 @@
 <p align=center>
   <div align=center>
     <!-- S t r e a k -->
-    <a href="https://git.io/streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=DenverCoder1/?user=shakilakamalasena&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=shakilakamalasena&theme=react&hide_border=true&border_radius=6.1&card_width=390" alt="GitHub Streak" />
     </a>
     <!-- Commit and Stars -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Rachit-Pal&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=shakilakamalasena&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true"/></a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br>
   <div align=center>
     <!-- most used language -->
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit-Pal&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilakamalasena&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></a>
   </div>
 </p>
 
@@ -146,7 +146,7 @@
 <!--- S H O W   M O R E --->
 
 <h4 align="center">
-  <a href="https://github.com/Rachit-Pal?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/shakilakamalasena?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 <br>
