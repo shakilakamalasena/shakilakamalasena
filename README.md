@@ -2,14 +2,6 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=shakilakamalasena&label=Profile%20views&color=0e75b6&style=flat"><br>
 
-
-<!--- P R O F I L E   B A N N E R 
-
-<h1 align="center">
-  <img src="https://telegra.ph/file/c3211f5624cd36cbdae9c.jpg">
-</h1>
---->
-
 <!--- A N I M A T E D   T E X T --->
 
 <h1 align="center">  
@@ -18,13 +10,9 @@
   </a>
 </h1>
 
-
 <!--- A B O U T   M E --->
 
 <h4 align="center">
-    <!-- ⚜️ A Web Developer, Learner and a Gamer from India ⚜️<br>
-    🎓 Doing my Bachelors from <a href="http://www.ipu.ac.in/">IPU UNIVERSITY</a> 🎓<br>
-    💻 I’m currently working on <a href="https://rendergfx.com/">RENDER GFX</a> 💻<br> -->
     I’m currently learning Bachelor's of Computer Science🎓<br/>
     DevOps Enthusiastic
 </h4>
@@ -38,19 +26,8 @@
   <a href="https://x.com/doinkcozyy" target="_blank"><img src="https://img.shields.io/badge/Twitter-181919?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>  
   <a href = "mailto:shakilakamalasena@gmail.com"><img src="https://img.shields.io/badge/-Gmail-cc3a2e?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<hr> <!--- <hr> tag is use for Horizontal Lines --->
+<hr>
 
-
-<!--- G I T H U B   T R O P H Y 
-
-<h2 align="center">Github Trophy and Contribution Graph <img src="https://github.com/Rachit-Pal/Rachit-Pal/blob/main/resources/Neko-01.gif" width="30px"></h2>
-<br>
-
-<p align="center">
-  <a href="https://github.com/Rachit-Pal/Github-Profile-Trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit-pal&theme=darkhub&no-frame=true" alt="Rachit-Pal"/></a>
-</p>
-
---->
 
 <!--- G I T H U B   C O N T R I B U T I O N   G R A P H --->
 
@@ -85,20 +62,6 @@
 <hr>
 
 
-<!--- S N A K E   E A T I N G   M Y   C O N T R I B U T I O N 
-
-<div align="center">
-  <h2 align="center">Snake eating my Contribution <img src="https://github.com/Rachit-Pal/Rachit-Pal/blob/main/resources/Neko-03.gif" width="30px"></h2>
-  <br>
-  <img alt="snake eating my contribution" src="https://github.com/Rachit-Pal/Rachit-Pal/blob/output/github-contribution-grid-snake.svg">
-  <br>
-  <br>
-  <br>
-</div>
-
-<hr>
---->
-
 <!--- G I T H U B   P R O F I L E   S T A T S --->
 
 <h2 align="center"> STATISTICS </h2>
@@ -122,24 +85,6 @@
 <br>
 <hr>
 
-
-<!--- M Y   T O P   R E P O --->
-
-<h2 align="center">💾 REPOSITORIES 💾</h2>
-<br>
-<div width="100%" align="center">
-  <!--- Repo #1 --->
-  <a align="right" href="https://github.com/Rachit-Pal/NekoRobot" title="Powerful telegram group management bot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=NekoRobot&theme=react&border_color=61dafb&border_radius=10"></a>
-  <!--- Repo #2 --->
-  <a align="left" href="https://github.com/Rachit-Pal/NekoMusic" title="Telegram VC Bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=NekoMusic&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <!--- Repo #3 --->
-  <a align="left" href="https://github.com/Rachit-Pal/YorForger" title="Telegram group management bot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=YorForger&theme=react&border_color=61dafb&border_radius=10"></a>
-  <!--- Repo #4 --->
-  <a align="right" href="https://github.com/Rachit-Pal/AlbedoBot" title="Anime themed group management bot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rachit-Pal&repo=AlbedoBot&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
 
 <br><br><br><br><br><br>
 
