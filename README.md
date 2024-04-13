@@ -26,7 +26,7 @@
   <a href="https://x.com/doinkcozyy" target="_blank"><img src="https://img.shields.io/badge/Twitter-181919?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>  
   <a href = "mailto:shakilakamalasena@gmail.com"><img src="https://img.shields.io/badge/-Gmail-cc3a2e?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<hr>
+<hr> <!--- <hr> tag is use for Horizontal Lines --->
 
 
 <!--- G I T H U B   C O N T R I B U T I O N   G R A P H --->
@@ -84,19 +84,8 @@
 
 <br>
 <hr>
-
-
-<br><br><br><br><br><br>
-
-
-<!--- S H O W   M O R E --->
-
-<h4 align="center">
-  <a href="https://github.com/shakilakamalasena?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
 <br>
-<br>
+
 
 <!--- G R E E T I N G   T E X T   A N D   I M A G E --->
 
@@ -107,4 +96,6 @@
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
+<div align="center" >
+  <img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png">
+</div>
