@@ -75,11 +75,12 @@
 
 
 <h2 align="center">Currently Learning</h2>
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,gcp,express,kubernetes,mongodb,nextjs,nodejs" />
   </a>
-</p>
+</p><br>
 
 <hr>
 
