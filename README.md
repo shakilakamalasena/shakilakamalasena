@@ -1,6 +1,6 @@
 <!--- P R O F I L E   V I E W S   C O U N T E R S --->
 
-<img align="right" src="https://komarev.com/ghpvc/?username=Rachit-Pal&label=Profile%20views&color=0e75b6&style=flat"><br>
+<img align="right" src="https://komarev.com/ghpvc/?username=shakilakamalasena&label=Profile%20views&color=0e75b6&style=flat"><br>
 
 
 <!--- P R O F I L E   B A N N E R 
@@ -22,24 +22,26 @@
 <!--- A B O U T   M E --->
 
 <h4 align="center">
-    ⚜️ A Web Developer, Learner and a Gamer from India ⚜️<br>
+    <!-- ⚜️ A Web Developer, Learner and a Gamer from India ⚜️<br>
     🎓 Doing my Bachelors from <a href="http://www.ipu.ac.in/">IPU UNIVERSITY</a> 🎓<br>
-    💻 I’m currently working on <a href="https://rendergfx.com/">RENDER GFX</a> 💻<br>
+    💻 I’m currently working on <a href="https://rendergfx.com/">RENDER GFX</a> 💻<br> -->
+    I’m currently learning Bachelor's of Computer Science🎓<br/>
+    DevOps Enthusiastic
 </h4>
 
 
 <!--- S O C I A L   M E D I A   B A D G E S --->
 
 <div align="center">
-    <a href="https://t.me/Saltam4" target="_blank"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=Telegram&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/MyselfRachiit" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:RachitKrPal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/Render_GFX" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    <a href="https://www.facebook.com/shakila.kamalasena" target="_blank"><img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/doinkcozyy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://x.com/doinkcozyy" target="_blank"><img src="https://img.shields.io/badge/Twitter-181919?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:shakilakamalasena@gmail.com"><img src="https://img.shields.io/badge/-Gmail-cc3a2e?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <hr> <!--- <hr> tag is use for Horizontal Lines --->
 
 
-<!--- G I T H U B   T R O P H Y --->
+<!--- G I T H U B   T R O P H Y 
 
 <h2 align="center">Github Trophy and Contribution Graph <img src="https://github.com/Rachit-Pal/Rachit-Pal/blob/main/resources/Neko-01.gif" width="30px"></h2>
 <br>
@@ -48,39 +50,41 @@
   <a href="https://github.com/Rachit-Pal/Github-Profile-Trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit-pal&theme=darkhub&no-frame=true" alt="Rachit-Pal"/></a>
 </p>
 
+--->
 
 <!--- G I T H U B   C O N T R I B U T I O N   G R A P H --->
 
 <p align="center">
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Rachit-Pal&theme=react-dark&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakilakamalasena&theme=react-dark&hide_border=true">
   </a>
 </p>
 
 
 <!--- L A N G U A G E - F R A M E W O R K S -  T O O L S --->
 
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<h2 align="center"> Languages - Frameworks - Tools </h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,github,python,html,js,css,wordpress,md,graphql,atom,discord" /><br>
-    <img src="https://skillicons.dev/icons?i=heroku,bootstrap,mongodb,mysql,blender,linux,vscode,ps,ae,pr,ai," />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,discord,figma,git,idea,ai,java,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=bash,matlab,mysql,notion,octave,ps,github,postman,py,ubuntu,vscode,latex" />
   </a>
 </p><br>
+<hr>
 
 <h2 align="center">Learning</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,solidity,aws,googlecloud,electron,xd" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,gcp,express,kubernetes,mongodb,nextjs,nodejs" />
   </a>
 </p>
 
 <hr>
 
 
-<!--- S N A K E   E A T I N G   M Y   C O N T R I B U T I O N --->
+<!--- S N A K E   E A T I N G   M Y   C O N T R I B U T I O N 
 
 <div align="center">
   <h2 align="center">Snake eating my Contribution <img src="https://github.com/Rachit-Pal/Rachit-Pal/blob/main/resources/Neko-03.gif" width="30px"></h2>
@@ -92,16 +96,18 @@
 </div>
 
 <hr>
-
+--->
 
 <!--- G I T H U B   P R O F I L E   S T A T S --->
 
-<h2 align="center">〽️ STATISTICS 〽️</h2>
+<h2 align="center"> STATISTICS </h2>
 <br>
 <p align=center>
   <div align=center>
     <!-- S t r e a k -->
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"><img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Rachit-Pal&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" /></a>
+    <a href="https://git.io/streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=DenverCoder1/?user=shakilakamalasena&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
     <!-- Commit and Stars -->
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Rachit-Pal&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true"/></a>
   </div>
