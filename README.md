@@ -1,11 +1,14 @@
 <!--- P R O F I L E   V I E W S   C O U N T E R S --->
 
-<img width="70%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 <img align="right" src="https://komarev.com/ghpvc/?username=shakilakamalasena&label=Profile%20views&color=0e75b6&style=flat"><br>
 
 
 <!--- P R O F I L E   B A N N E R --->
 
+<h1 align="center">
+  <img width="60%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+</h1>
 <!--h1 align="center">
   <img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg" width="100%">
 </h1>
@@ -32,9 +35,10 @@
 <div align="center">
     <a href="https://www.facebook.com/shakila.kamalasena" target="_blank"><img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/doinkcozyy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://x.com/doinkcozyy" target="_blank"><img src="https://img.shields.io/badge/Twitter-181919?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>  
-  <a href = "mailto:shakilakamalasena@gmail.com"><img src="https://img.shields.io/badge/-Gmail-cc3a2e?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/shakila-kamalasena-720038103/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "https://discordapp.com/users/doinkcozyy#0392"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="https://x.com/doinkcozyy" target="_blank"><img src="https://img.shields.io/badge/Twitter-181919?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>  
+    <a href = "https://www.linkedin.com/in/shakila-kamalasena-720038103/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:shakilakamalasena@gmail.com"><img src="https://img.shields.io/badge/-Gmail-cc3a2e?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <hr> <!--- <hr> tag is use for Horizontal Lines --->
 
