@@ -1,11 +1,12 @@
 <!--- P R O F I L E   V I E W S   C O U N T E R S --->
 
+<img width="70%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <img align="right" src="https://komarev.com/ghpvc/?username=shakilakamalasena&label=Profile%20views&color=0e75b6&style=flat"><br>
 
 
 <!--- P R O F I L E   B A N N E R --->
 
-<h1 align="center">
+<!--h1 align="center">
   <img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg" width="100%">
 </h1>
 
