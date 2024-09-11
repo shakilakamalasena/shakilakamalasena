@@ -1,14 +1,14 @@
 <!--- P R O F I L E   V I E W S   C O U N T E R S --->
 
-
-<img align="right" src="https://komarev.com/ghpvc/?username=shakilakamalasena&label=Profile%20views&color=0e75b6&style=flat"><br>
-
+<div align="right">
+  <img align="right" src="https://komarev.com/ghpvc/?username=shakilakamalasena&label=Profile%20views&color=0e75b6&style=flat"><br>
+</div>
 
 <!--- P R O F I L E   B A N N E R --->
 
-<h1 align="center">
+<div align="center">
   <img width="60%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-</h1>
+</div>
 <!--h1 align="center">
   <img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg" width="100%">
 </h1>
