@@ -25,8 +25,8 @@
 <!--- A B O U T   M E --->
 
 <h4 align="center">
-    I’m currently learning Bachelor's of Computer Science🎓<br/>
-    Curious on DevOps🚀
+    Balancing coding and my personal passions. Committed to continuous learning while enjoying the best of both worlds.<br/>
+    CS Major🎓 | Curious on DevOps🚀
 </h4>
 
 
@@ -34,7 +34,7 @@
 
 <div align="center">
     <a href="https://www.facebook.com/shakila.kamalasena" target="_blank"><img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/doinkcozyy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/shakila_kamalasena" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "https://discordapp.com/users/doinkcozyy#0392"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     <a href="https://x.com/doinkcozyy" target="_blank"><img src="https://img.shields.io/badge/Twitter-181919?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>  
     <a href = "https://www.linkedin.com/in/shakila-kamalasena-720038103/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -59,17 +59,11 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,discord,figma,git,idea,ai,java,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=bash,matlab,mysql,notion,octave,ps,github,postman,py,ubuntu,vscode,latex" />
-  </a>
-</p><br>
-
-
-<h2 align="center">Currently Learning</h2>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,gcp,express,kubernetes,mongodb,nextjs,nodejs" />
+    <img src="https://skillicons.dev/icons?i=c,cs,css,html,java,js,latex,php,ts" /><br>
+    <img src="https://skillicons.dev/icons?i=express,firebase,nextjs,nodejs,react,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase,vercel" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,figma,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,bash,docker,git,github,githubactions,grafana,kafka,linux,postman,ubuntu" />
   </a>
 </p><br>
 
